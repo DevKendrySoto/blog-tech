@@ -1,0 +1,37 @@
+
+[
+    {
+      "id": 1,
+      "title": "Plataforma de E-learning",
+      "description": "Desarrollo de plataforma educativa con Next.js y Node.js",
+      "year": 2023,
+      "client": "Academia Digital",
+      "technologies": ["Next.js", "Node.js", "MongoDB", "Tailwind"],
+      "image": "/images/projects/e-learning.jpg",
+      "slug": "plataforma-elearning",
+      "category": "Web App",
+      "features": [
+        "Sistema de cursos en vivo",
+        "Pasarela de pagos integrada",
+        "Dashboard analítico"
+      ],
+      "url": "https://ejemplo.com"
+    },
+    {
+      "id": 2,
+      "title": "App de Gestión Logística",
+      "description": "Solución móvil para gestión de flotas de transporte",
+      "year": 2022,
+      "client": "LogiTech",
+      "technologies": ["React Native", "Firebase", "Redux"],
+      "image": "/images/projects/logistica.jpg",
+      "slug": "app-logistica",
+      "category": "Mobile App",
+      "features": [
+        "Tracking en tiempo real",
+        "Optimización de rutas",
+        "Notificaciones push"
+      ],
+      "url": "https://ejemplo.com"
+    }
+  ]

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Palíndromo",
+      "description": "Determina si una palabra es palíndromo",
+      "difficulty": "Fácil",
+      "tags": ["Strings", "Algoritmos"],
+      "language": "JavaScript",
+      "solution": "function esPalindromo(str) {\n  const limpio = str.toLowerCase().replace(/[^a-z0-9]/g, '');\n  return limpio === limpio.split('').reverse().join('');\n}",
+      "testCases": [
+        { "input": "'Anita lava la tina'", "output": "true" },
+        { "input": "'Hola mundo'", "output": "false" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fibonacci",
+      "description": "Calcula el n-ésimo número en la secuencia Fibonacci",
+      "difficulty": "Intermedio",
+      "tags": ["Matemáticas", "Recursión"],
+      "language": "Python",
+      "solution": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)",
+      "testCases": [
+        { "input": "5", "output": "5" },
+        { "input": "10", "output": "55" }
+      ]
+    }
+  ]
