@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Aprende Next.js desde cero",
+      "description": "Guía completa para dominar Next.js con proyectos prácticos",
+      "level": "Principiante",
+      "duration": "8 horas",
+      "lessons": 42,
+      "category": "Next.js",
+      "image": "/images/tutorials/nextjs.jpg",
+      "slug": "nextjs-desde-cero",
+      "tags": ["React", "SSR", "Frontend"]
+    },
+    {
+      "id": 2,
+      "title": "TypeScript Profesional",
+      "description": "Domina el tipado avanzado y mejores prácticas",
+      "level": "Intermedio",
+      "duration": "6 horas",
+      "lessons": 35,
+      "category": "TypeScript",
+      "image": "/images/tutorials/typescript.jpg",
+      "slug": "typescript-profesional",
+      "tags": ["JavaScript", "Tipado", "Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS Avanzado",
+      "description": "Técnicas avanzadas y componentes reutilizables",
+      "level": "Intermedio",
+      "duration": "4 horas",
+      "lessons": 28,
+      "category": "CSS",
+      "image": "/images/tutorials/tailwind.jpg",
+      "slug": "tailwind-avanzado",
+      "tags": ["Diseño", "Utility-first", "Frontend"]
+    }
+  ]

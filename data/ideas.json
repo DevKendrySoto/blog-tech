@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Generador de contraseñas seguras",
+      "description": "Aplicación que genera contraseñas aleatorias con opciones de personalización",
+      "category": "Web App",
+      "level": "Principiante",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "features": [
+        "Longitud configurable",
+        "Incluir símbolos/números",
+        "Copiar al portapapeles"
+      ],
+      "extensions": [
+        "Añadir test de fortaleza",
+        "Guardar historial de contraseñas"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Clon de Trello",
+      "description": "Tablero Kanban para gestión de tareas",
+      "category": "Full Stack",
+      "level": "Intermedio",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "features": [
+        "Crear/listar/editar tarjetas",
+        "Arrastrar y soltar",
+        "Multiples tableros"
+      ],
+      "extensions": [
+        "Colaboración en tiempo real",
+        "Sistema de etiquetas"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Juego de memoria",
+      "description": "Juego web para entrenar la memoria visual",
+      "category": "Game",
+      "level": "Principiante",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "features": [
+        "Niveles de dificultad",
+        "Temporizador",
+        "Puntuaciones"
+      ],
+      "extensions": [
+        "Modo multijugador",
+        "Sonidos y animaciones"
+      ]
+    }
+  ]

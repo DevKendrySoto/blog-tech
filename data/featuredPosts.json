@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Next.js 14: Las nuevas características que debes conocer",
+    "excerpt": "Exploramos las últimas actualizaciones del framework.",
+    "category": "Next.js",
+    "date": "2023-11-15",
+    "readTime": "5 min",
+    "image": "/images/nextjs-14.jpg",
+    "slug": "nextjs-14-novedades"
+  },
+  {
+    "id": "2",
+    "title": "React Server Components: Guía completa",
+    "excerpt": "Aprende a implementar RSCs en tus aplicaciones.",
+    "category": "React",
+    "date": "2023-11-05",
+    "readTime": "7 min",
+    "image": "/images/react-server-components.jpg",
+    "slug": "react-server-components-guia"
+  },
+  {
+    "id": "3",
+    "title": "Tailwind CSS v3.3: Novedades",
+    "excerpt": "Descubre las nuevas características de Tailwind.",
+    "category": "CSS",
+    "date": "2023-10-20",
+    "readTime": "4 min",
+    "image": "/images/tailwind-3.3.jpg",
+    "slug": "tailwind-3-3-novedades"
+  },
+  {
+    "id": "4",
+    "title": "TypeScript 5.2: Lo nuevo y cómo aprovecharlo",
+    "excerpt": "Nuevas características y mejoras de rendimiento.",
+    "category": "TypeScript",
+    "date": "2023-10-10",
+    "readTime": "6 min",
+    "image": "/images/typescript-5.2.jpg",
+    "slug": "typescript-5-2-novedades"
+  },
+  {
+    "id": "5",
+    "title": "Cómo optimizar el rendimiento de tus aplicaciones React",
+    "excerpt": "Técnicas avanzadas para mejorar la velocidad.",
+    "category": "React",
+    "date": "2023-09-25",
+    "readTime": "8 min",
+    "image": "/images/react-performance.jpg",
+    "slug": "optimizar-rendimiento-react"
+  },
+  {
+    "id": "6",
+    "title": "Introducción a GraphQL",
+    "excerpt": "Aprende los fundamentos de GraphQL y cómo implementarlo.",
+    "category": "GraphQL",
+    "date": "2023-11-20",
+    "readTime": "5 min",
+    "image": "/images/graphql-intro.jpg",
+    "slug": "introduccion-graphql"
+  }
+]
