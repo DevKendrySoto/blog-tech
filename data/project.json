@@ -33,5 +33,22 @@
         "Notificaciones push"
       ],
       "url": "https://ejemplo.com"
+    },
+    {
+      "id": 3,
+      "title": "Sistema de Reservas de Hoteles",
+      "description": "Aplicación web para reservas y gestión de hoteles",
+      "year": 2021,
+      "client": "HotelPlus",
+      "technologies": ["Vue.js", "Express", "MySQL"],
+      "image": "/images/projects/hotel-reservas.jpg",
+      "slug": "sistema-reservas-hoteles",
+      "category": "Web App",
+      "features": [
+        "Búsqueda avanzada de hoteles",
+        "Integración con calendarios",
+        "Sistema de reseñas"
+      ],
+      "url": "https://ejemplo.com"
     }
   ]

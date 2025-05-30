@@ -1,8 +1,7 @@
-// components/Challenges/ChallengesGrid.js
 'use client';
 
 import {ChallengeCard} from './ChallengesCard';
-import challenges from '../../../data/challeges.json';
+import challenges from '../../../../data/challeges.json';
 import { useState } from 'react';
 
 export function ChallengesGrid() {

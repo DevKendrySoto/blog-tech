@@ -28,5 +28,35 @@
     "readTime": "4 min",
     "image": "/images/tailwind-3.3.jpg",
     "slug": "tailwind-3-3-novedades"
+  },
+  {
+    "id": "4",
+    "title": "TypeScript 5.2: Lo nuevo y cómo aprovecharlo",
+    "excerpt": "Nuevas características y mejoras de rendimiento.",
+    "category": "TypeScript",
+    "date": "2023-10-10",
+    "readTime": "6 min",
+    "image": "/images/typescript-5.2.jpg",
+    "slug": "typescript-5-2-novedades"
+  },
+  {
+    "id": "5",
+    "title": "Cómo optimizar el rendimiento de tus aplicaciones React",
+    "excerpt": "Técnicas avanzadas para mejorar la velocidad.",
+    "category": "React",
+    "date": "2023-09-25",
+    "readTime": "8 min",
+    "image": "/images/react-performance.jpg",
+    "slug": "optimizar-rendimiento-react"
+  },
+  {
+    "id": "6",
+    "title": "Introducción a GraphQL",
+    "excerpt": "Aprende los fundamentos de GraphQL y cómo implementarlo.",
+    "category": "GraphQL",
+    "date": "2023-11-20",
+    "readTime": "5 min",
+    "image": "/images/graphql-intro.jpg",
+    "slug": "introduccion-graphql"
   }
 ]
